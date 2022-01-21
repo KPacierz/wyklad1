@@ -1,0 +1,17 @@
+.contentsFlex{
+    display: flex;
+}
+
+.contentsFlexImg{
+    border: 2px solid;
+    width: 250px;
+    height: 220px;
+    margin-bottom: 10px;
+}
+
+.contentsFlexTxt{
+    flex: 1;
+}
+.contentsDivClass{
+    margin: 10px;
+}
